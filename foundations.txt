@@ -1,0 +1,5 @@
+What are data types?  a way to express data in JavaScript
+What are operators used for?  manipulating or evaluating an expression
+What are conditional statements? a programming expression or command that instructs a computer to run code if a specified statement 
+is truthy or not. 
+What are loops?  Loops are used in JavaScript to perform repeated tasks based on a condition.  For Loop is an example.
